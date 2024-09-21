@@ -41,7 +41,7 @@ Antes de iniciar, certifique-se de ter instalado em sua máquina:
    ```bash
    npm run dev
 
-4. Acesso no navegador:
+4. Acesso no navegador com a url gerada:
    ```bash
    http://localhost:5173/
 
